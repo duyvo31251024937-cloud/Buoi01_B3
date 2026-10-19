@@ -4,6 +4,11 @@
     {
         static void Main(string[] args) //sửa: main -> Main 
         {
+            /*
+* Bài: Buoi01_B3 - Thẻ giới thiệu bản thân
+* Sinh viên: Võ Ngọc Trúc Duy - MSSV: 31251024937
+* Ngày: 29/01/2007
+*/
             Console.OutputEncoding = System.Text.Encoding.UTF8; //sửa: thêm dấu chấm phẩy cuối dòng
             Console.WriteLine("Chương trình có lỗi"); //sửa: chữ C của Console viết hoa, thêm dấu nháy kép đóng
             Console.WriteLine(@"Đường dẫn: C:\Temp\new"); //sửa: chữ L của Writeline viết hoa và thêm @ để giữ nguyên dấub \ trong chuỗi
